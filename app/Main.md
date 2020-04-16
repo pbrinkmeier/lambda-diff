@@ -114,6 +114,8 @@ gcp a          b                      = Hole (a, b)
 ```
 
 Get some closure:
+This code is literally straight from the 3rd circle of hell.
+This is kind of a horrible hack I used to fill in the blanks left in the introduction of [1].
 
 ```haskell
 closure :: PatchTerm -> PatchTerm
